@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Venda de produtos",
+      "type": "income",
+      "category": "Venda",
+      "price": 1000,
+      "createdAt": "2025-06-23T17:33:14.000Z"
+    },
+    {
+      "id": "2",
+      "description": "Compra de produtos",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 500,
+      "createdAt": "2025-06-23T17:33:14.000Z"
+    },
+    {
+      "description": "Rops PampoRo",
+      "price": 20,
+      "category": "Jogos",
+      "type": "outcome",
+      "createdAt": "2025-06-25T18:17:38.194Z",
+      "id": "oSBWdJH"
+    }
+  ]
+}
